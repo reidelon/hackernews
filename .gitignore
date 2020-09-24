@@ -1,0 +1,7 @@
+venv/
+*.py[co]
+*.DS_Store
+_build/
+.idea/
+*.pyc
+*.sqlite3
